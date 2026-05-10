@@ -1,24 +1,19 @@
 # hello-world-python
-# Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+## Overview
+As a software engineer, I am establishing a professional development workflow. This project serves as the foundation for my future development environment, ensuring that tools such as Python, VS Code, and Git are correctly configured for efficient software creation.
 
-{Provide a description of your software}
+This simple Python application outputs a greeting and an introductory message for my upcoming "Garden Defender" project.
 
-{Describe your purpose for creating this software.}
+The purpose of this software is to verify the integrity of my development environment and version control system, preparing me for the implementation of more complex modules this semester.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+## Development Environment
+I utilized the following tools to develop this software:
+* **Visual Studio Code**: Used as the primary Integrated Development Environment (IDE) for coding and terminal operations.
+* **Python 3.14**: The programming language used for the logic, specifically utilizing the `print` function for console output.
+* **Git/GitHub**: Used for version control and remote repository management.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
-# Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+## Useful Websites
+* [Python Official Documentation](https://docs.python.org/3/)
+* [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
+* [GitHub Guides](https://docs.github.com/en/get-started)
